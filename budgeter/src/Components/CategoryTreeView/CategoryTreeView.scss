@@ -1,0 +1,15 @@
+.CategoryTreeView {
+  margin-top: 10px;
+  .TreeView {
+    div {
+      border-radius: 5px;
+      max-width: 500px;
+    }
+    ul {
+      list-style-type: disc;
+      li {
+        margin-bottom: 5px;
+      }
+    }
+  }
+}
